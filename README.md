@@ -17,5 +17,5 @@
 <p class="" data-start="986" data-end="1083">⚡ <strong data-start="988" data-end="1019">Количество мест ограничено!</strong> ⚡<br data-start="1021" data-end="1024" />Присоединиться можно <strong data-start="1045" data-end="1058">бесплатно</strong>, нажав на кнопку ниже:</p>
 <div class="section">
 <h2 class="highlight-text"><span style="color: #ff6600;">Выберите, где вам удобнее и присоединяйтесь:</span></h2>
-<a class="button" href="https://chat.whatsapp.com/H6nKuh9CgXl2ilWj7Gb3gN" target="_blank">💌 Присоединиться в WhatsApp</a><br /><a class="button" href="https://t.me/gdecupit" target="_blank">💬 Присоединиться в Telegram</a></div>
+<a class="button" href="[https://chat.whatsapp.com/H6nKuh9CgXl2ilWj7Gb3gN]" target="_blank">💌 Присоединиться в WhatsApp</a><br /><a class="button" href="https://t.me/gdecupit" target="_blank">💬 Присоединиться в Telegram</a></div>
 </div>
